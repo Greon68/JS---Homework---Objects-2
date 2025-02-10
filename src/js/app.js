@@ -16,6 +16,6 @@ const hero = {
     defence: 40
 };
 
-// let sortList = ['name','level'];
+let sortList = ['name','level'];
 
-console.log(orderByProps(hero,['name','level']));
+// console.log(orderByProps(hero,sortList));
