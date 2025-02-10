@@ -1,6 +1,7 @@
 // TODO: write your code here
 import sum from './basic';
-import orderByProps from './orderByProps';
+// import orderByProps from './orderByProps';
+import orderByProps from './basic';
 
 // console.log('worked +++');
 // console.log('Hello !!!');
