@@ -48,7 +48,7 @@ export default function orderByProps(object, propetySortList) {
         // console.log(newObj)
         gameList.push(newObj)
     }
-    // console.log(listNonSortObjects) // 5: [{"key": "name","value": "мечник"}, 
+    // console.log(gameList) // 5: [{key: "name",value: "мечник"}, 
                                 //  {key: 'health', value: 10},
                                 //  {key: 'level', value: 2},
                                 //  {key: 'attack', value: 80},
@@ -91,3 +91,14 @@ export default function orderByProps(object, propetySortList) {
 }
 
 
+const hero = {
+    name: 'мечник',
+    health: 10,
+    level: 2,
+    attack: 80,
+    defence: 40
+};
+
+let sortList = ['name','level'];
+
+console.log(orderByProps(hero,sortList));
