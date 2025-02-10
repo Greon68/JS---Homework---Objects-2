@@ -1,6 +1,6 @@
 // TODO: write your code here
 import sum from './basic';
-import orderByProps from './orderByProps.js';
+import orderByProps from './orderByProps';
 
 // console.log('worked +++');
 // console.log('Hello !!!');
@@ -17,4 +17,4 @@ const hero = {
 
 let sortList = ['name','level'];
 
-console.log(orderByProps(hero,sortList));
+// console.log(orderByProps(hero,sortList));
