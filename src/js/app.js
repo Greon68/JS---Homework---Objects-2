@@ -7,10 +7,10 @@ import destructuring from './destruct'
 // console.log('worked +++');
 // console.log('Hello !!!');
 
-// console.log(sum([3, 17]));
+console.log(sum([3, 17]));
 
 
-// ЗАДАНИЕ №!
+// ЗАДАНИЕ №1
 
 // const hero = {
 //     name: 'мечник',
@@ -22,6 +22,7 @@ import destructuring from './destruct'
 
 // let sortList = ['name','level'];
 
+// ВЫзов:
 // console.log(orderByProps(hero,sortList));
 
 // ЗАДАНИЕ №2
