@@ -7,7 +7,7 @@ import destructuring from './destruct'
 // console.log('worked +++');
 // console.log('Hello !!!');
 
-console.log(sum([3, 17]));
+// console.log(sum([3, 17]));
 
 
 // ЗАДАНИЕ №1
