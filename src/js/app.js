@@ -48,4 +48,4 @@ const character = {
     ]	
 }
 // Вызов
-console.log(destructuring(character));
+// console.log(destructuring(character));
