@@ -1,6 +1,7 @@
 // TODO: write your code here
 import sum from './basic';
 import orderByProps from './orderByProps';
+import destructuring from './destruct'
 
 
 // console.log('worked +++');
